@@ -1,16 +1,24 @@
 ### Hi there 👋
 
-<!--
-**itsadeliasembiring/itsadeliasembiring** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, Hello! I'm Adelia from Indonesia
+#### Student | Web Developer
+![Student | Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: HTML, CSS, Javascript, React
+
+- 🌱 I’m currently learning React, Material UI, and API 
+- 📫 How to reach me: adeliasmilecontact@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/itsadeliasembiring)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/adelia-adel-38a96a211//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/adelialistic//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://itsadeliasembiring.github.io/project-mui-portfolio-adelia/)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/itsadeliasembiring)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/itsadeliasembiring&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/itsadeliasembiring)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/itsadeliasembiring)  
+
+![Profile views](https://gpvc.arturio.dev/https://github.com/itsadeliasembiring)  
