@@ -2,7 +2,7 @@
 
 ### Hi there 👋, Hello! I'm Adelia from Indonesia
 #### Student | Web Developer
-![Student | Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Student | Web Developer]
 
 
 Skills: HTML, CSS, Javascript, React
