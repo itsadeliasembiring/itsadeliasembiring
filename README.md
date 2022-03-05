@@ -1,8 +1,8 @@
 <h1 align="center">Hello, I'm Adelia! 👋🏾 👩</h1>
-<h3 align="center">Student | Junior Web Developer from Indonesia 🇮🇩</h3>
+<h3 align="center">Student | Junior Web Developer</h3>
 
 <p align="center"> 
-  Visitor count<br>
+  👩‍💻Visitor👨‍💻<br>
   <img src="https://profile-counter.glitch.me/itsadeliasembiring/count.svg" />
 </p>
 
