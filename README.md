@@ -1,6 +1,5 @@
 ### Hello! I'm Adelia from Indonesia
 #### Student | Web Developer
-![Student | Web Developer]
 
 
 Skills: HTML, CSS, Javascript, React
