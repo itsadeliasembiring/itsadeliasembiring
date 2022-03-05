@@ -1,6 +1,10 @@
-# Hi, I'm Adelia! 👋🏾 👩🏾‍💻
-### Student | Web Developer
-![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=61DBFB)
+<h1 align="center">Hello, I'm Adelia! 👋🏾 👩</h1>
+<h2 align="center">Student | Junior Web Developer from Indonesia 🇮🇩</h3>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/itsadeliasembiring/count.svg" />
+</p>
 
 Skills: HTML, CSS, Javascript, React
 
@@ -11,7 +15,3 @@ Skills: HTML, CSS, Javascript, React
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsadeliasembiring&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsadeliasembiring&show_icons=true&theme=react)
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/itsadeliasembiring/count.svg" />
-</p>
