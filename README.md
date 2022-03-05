@@ -12,7 +12,7 @@ Skills: HTML, CSS, Javascript, React
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/itsadeliasembiring)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/itsadeliasembiring&show_icons=true)  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsadeliasembiring)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/itsadeliasembiring)  
 
