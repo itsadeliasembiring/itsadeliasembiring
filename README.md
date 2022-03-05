@@ -1,7 +1,7 @@
 <h1 align="center">👋Hello, I'm Adelia!👩‍💻</h1>
 <h3 align="center">Student | Junior Web Developer</h3>
 
-<h3 align="center" style='color:61DBFB'> 
+<h3 align="center" style='color:#61DBFB'> 
   👩‍💻Visitor👨‍💻<br>
   <img src="https://profile-counter.glitch.me/itsadeliasembiring/count.svg" />
 </h3
