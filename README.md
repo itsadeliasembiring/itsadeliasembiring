@@ -26,6 +26,6 @@
 
 <h3 color=61DBFB>🎯Here's My Coding Progress📈</h3>
   
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=itsadeliasembiring&show_icons=true&theme=react"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=itsadeliasembiring&show_icons=true&theme=react"/>
   
-<img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsadeliasembiring&&layout=compact&theme=react"/>
+<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsadeliasembiring&&layout=compact&theme=react"/>
