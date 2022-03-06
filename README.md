@@ -8,15 +8,15 @@
   
 <h3>🔗Let's Connect with Me📬</h3>
 
-<a href="https://www.instagram.com/adelialistic/">
-  <img alt="Adelia's Instagram" width="50px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+<p align="left"> <a href="https://www.instagram.com/adelialistic/">
+  <img alt="Adelia's Instagram" width="40" height="40" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://discord.com/users/Adele#5179">
-  <img alt="Adelia's Discord" width="50px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img alt="Adelia's Discord" width="40" height="40" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="www.linkedin.com/in/adelia-account">
-  <img alt="Adelia's LinkedIN" width="50px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+  <img alt="Adelia's LinkedIN" width="40" height="40" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a></p>
 
 
 <h3>🔧Languages and Tools🔧</h3>
