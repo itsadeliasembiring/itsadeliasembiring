@@ -6,7 +6,7 @@
   <img src="https://profile-counter.glitch.me/itsadeliasembiring/count.svg" />
 </h3
   
-<h3>🔗Connect with Me📬</h3>
+<h2>🔗Connect with Me📬</h2>
 
 <p align="left"> <a href="https://www.instagram.com/adelialistic/">
   <img alt="Adelia's Instagram" width="40" height="40" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
