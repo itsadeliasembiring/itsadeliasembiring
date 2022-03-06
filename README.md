@@ -16,4 +16,4 @@
   
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=itsadeliasembiring&show_icons=true&theme=react"/>
   
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsadeliasembiring&langs_count=8&theme=react"/>
+<img align="left" width="47%" height="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsadeliasembiring&langs_count=8&theme=react"/>
