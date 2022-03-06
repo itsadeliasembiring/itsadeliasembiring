@@ -9,13 +9,13 @@
 <h3>🔗Let's Connect with Me📬</h3>
 
 <a href="https://www.instagram.com/adelialistic/">
-  <img align="left" alt="Adelia's Instagram" width="20px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img alt="Adelia's Instagram" width="50px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://discord.com/users/Adele#5179">
-  <img align="left" alt="Adelia's Discord" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img alt="Adelia's Discord" width="50px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="www.linkedin.com/in/adelia-account">
-  <img align="left" alt="Adelia's LinkedIN" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img alt="Adelia's LinkedIN" width="50px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 
