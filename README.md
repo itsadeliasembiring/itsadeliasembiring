@@ -7,7 +7,7 @@
 </h3>
   
 
-<h3>🔗Connect with Me📬</h3>
+<h3>🔗Let's Connect with Me📬</h3>
 
 <p align="left"> <a href="https://www.instagram.com/adelialistic/">
   <img alt="Adelia's Instagram" width="40" height="40" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
