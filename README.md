@@ -6,9 +6,6 @@
   <img src="https://profile-counter.glitch.me/itsadeliasembiring/count.svg" />
 </h3
   
-- 🌱 I’m currently learning React, Material UI, and API 
-- 📫 Let's connect with me adeliasmilecontact@gmail.com 
-  
 <h3>🔗Let's Connect with Me📬
 <a href="https://www.instagram.com/adelialistic/">
   <img align="left" alt="Adelia's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
